@@ -1,0 +1,51 @@
+File Manifest for ICPSR 34276
+
+United States Department of Justice. Office of Justice Programs. Bureau of
+Justice Statistics. Police-Public Contact Survey, 2011. ICPSR34276-v1. Ann
+Arbor, MI: Inter-university Consortium for Political and Social Research
+[distributor], 2014-03-18. http://doi.org/10.3886/ICPSR34276.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34276-descriptioncitation.pdf       -       -         -       2016-08-26  -
+
+    34276-related_literature.txt        -       -         -       daily       -
+
+    34276-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Police-Public Contact Survey, 2011
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34276-0001-Codebook.pdf             -       -         -       2014-03-18  bb8f8e7eba4565d1b9737ffaaa5be8df
+
+    34276-0001-Data.dta                 -       62,280    527     2014-03-18  efd60968f032a48aed1caf2064d2caff
+
+    34276-0001-Data.rda                 -       62,280    527     2014-03-18  1d5517d2d01595bebce4efd52634efac
+
+    34276-0001-Data.sav                 -       62,280    527     2014-03-18  016d27d8d8df0c59b190664d9cbe412f
+
+    34276-0001-Data.stc                 -       62,280    527     2014-03-18  b94fe54363014061afc37fae92c79089
+
+    34276-0001-Data.tsv                 -       62,280    527     2014-03-18  a53931672cc4b06e5f057cbebeb2a249
+
+    34276-0001-Data.txt                 1111    62,280    527     2014-03-18  4ff0f2f5012798c5e8f06ccf6600a025
+
+    34276-0001-Setup.dct                -       -         -       2014-03-18  4402ddb681f8a2d9112ce0c0660b1952
+
+    34276-0001-Setup.do                 -       -         -       2014-03-18  b3c00e4d34fd54b1cc0aff3025fcc139
+
+    34276-0001-Setup.sas                -       -         -       2014-03-18  ba95271d0d7a71d972b7d26d8f4042c1
+
+    34276-0001-Setup.sps                -       -         -       2014-03-18  b3c528023e5c9fc45fabab27e0781220
+
+    34276-0001-Supplemental_syntax.do   -       -         -       2014-03-18  b627462825f98cbc4c71ede44eaddd67
+
+    34276-0001-Supplemental_syntax.sas  -       -         -       2014-03-18  bf8c6af97b4f63e00515cfee7f7cf108
+

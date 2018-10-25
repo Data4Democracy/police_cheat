@@ -1,0 +1,173 @@
+Bibliography
+Police-Public Contact Survey, 2011
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 34276. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Berzofsky, Marcus; Ewing, Glynis; DeMichele, Matthew; Langton, Lynn;
+Hyland, Shelley; Davis, Elizabeth, "Police-Public Contact Survey:
+Assessment and Recommendations for Producing Trend Estimates after 2011
+Questionnaire Redesign." Bureau of Justice Statistics Research and
+Development Series. NCJ 250485, Washington, DC: Department of Justice,
+Office of Justice Programs, Bureau of Justice Statistics, Apr 2017.
+Full text PDF: https://www.bjs.gov/content/pub/pdf/ppcsarpte11qr.pdf
+
+2. Durose, Matthew; Langton, Lynn, "Requests for Police Assistance, 2011."
+BJS Special Reports. NCJ 242938, Washington, DC: United States Department
+of Justice, Office of Justice Programs, Bureau of Justice Statistics, Sep
+2013.
+Abstract: http://www.ncjrs.gov/App/publications/abstract.aspx?ID=265013
+Full text: http://www.bjs.gov/content/pub/ascii/rpa11.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/rpa11.pdf
+This report from the U.S. Department of Justice, Bureau of Justice
+Statistics (BJS), presents information on the number of persons who
+requested police assistance in fiscal year (FY) 2011. Highlights of the
+findings include the following: an estimated 1 in 8 U.S. residents age 16
+or older, or 31.4 million persons, requested assistance from police at
+least once, primarily to report a crime, suspicious activity, or
+neighborhood disturbance; the majority of persons who requested police
+assistance felt the officers acted properly (93 percent) and were helpful
+(86 percent), while about 85 percent of persons who requested police
+assistance were satisfied with the police response; and no statistical
+differences were found between the percentage of Hispanics (86 percent),
+Blacks (85 percent), and Whites (83 percent) who reported a crime or
+neighborhood disturbance and felt the police were helpful. The study also
+found that 93 percent of persons who requested police assistance felt the
+officers spent an appropriate amount of time with them during the contact,
+and the majority of persons who requested police assistance reported that
+they were just as likely or more likely to contact the police again for a
+similar problem. This report was compiled to examine the characteristics
+and experiences of persons who contacted law enforcement for assistance
+during FY 2011. Data for the report were obtained from BJS’s 2011 Police-
+Public Contact Survey, a supplement to the National Crime Victimization
+Survey. Tables, figure, and appendixes
+
+3. Gadson, Lorenzo, "Examining Citizen’s Perception of Police Contact."
+Thesis, North Carolina Central University, 2016.
+Abstract: http://www.ncjrs.gov/App/publications/abstract.aspx?ID=265013
+Full text: http://www.bjs.gov/content/pub/ascii/rpa11.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/rpa11.pdf
+This report from the U.S. Department of Justice, Bureau of Justice
+Statistics (BJS), presents information on the number of persons who
+requested police assistance in fiscal year (FY) 2011. Highlights of the
+findings include the following: an estimated 1 in 8 U.S. residents age 16
+or older, or 31.4 million persons, requested assistance from police at
+least once, primarily to report a crime, suspicious activity, or
+neighborhood disturbance; the majority of persons who requested police
+assistance felt the officers acted properly (93 percent) and were helpful
+(86 percent), while about 85 percent of persons who requested police
+assistance were satisfied with the police response; and no statistical
+differences were found between the percentage of Hispanics (86 percent),
+Blacks (85 percent), and Whites (83 percent) who reported a crime or
+neighborhood disturbance and felt the police were helpful. The study also
+found that 93 percent of persons who requested police assistance felt the
+officers spent an appropriate amount of time with them during the contact,
+and the majority of persons who requested police assistance reported that
+they were just as likely or more likely to contact the police again for a
+similar problem. This report was compiled to examine the characteristics
+and experiences of persons who contacted law enforcement for assistance
+during FY 2011. Data for the report were obtained from BJS’s 2011 Police-
+Public Contact Survey, a supplement to the National Crime Victimization
+Survey. Tables, figure, and appendixes
+
+4. Hyland, Shelley; Langton, Lynn; Davis, Elizabeth, "Police Use of
+Nonfatal Force, 2002-11." Special Report. NCJ 249216, Washington, DC: U.S.
+Department of Justice, Office of Justice Programs, Bureau of Justice
+Statistics, Nov 2015.
+Abstract: http://www.bjs.gov/index.cfm?ty=pbdetail&iid=5456&utm_source=juststats-111415&utm_medium=email&utm_content=PPUS14%20Head&utm_campaign=juststats&ed2f26df2d9c416fbddddd2330a778c6=nbunubbro-nzudzrbu
+Full text: http://www.bjs.gov/content/pub/ascii/punf0211.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/punf0211.pdf
+Presents data on the threat or use of nonfatal force by police against
+white, black, and Hispanic residents during police contact. This report
+describes the characteristics of the contact, the type of force threatened
+or used, and the perceptions that force was excessive or the police behaved
+properly during the contact. It also examines trends in the threat or use
+of force and the relationship between officer and driver race and Hispanic
+origin in traffic stops involving the threat or use of force. Data are from
+the 2002, 2005, 2008, and 2011 Police-Public Contact Surveys, which were
+administered as supplements to the National Crime Victimization Survey.
+
+5. Langton, Lynn; Durose, Matthew, "Police Behavior during Traffic and
+Street Stops, 2011." Special Report. NCJ 242937, Washington, DC: United
+States Department of Justice, Office of Justice Programs, Bureau of
+Justice, Sep 2013. pbtss11
+Abstract: http://www.ncjrs.gov/App/publications/abstract.aspx?ID=265012
+Full text: http://www.bjs.gov/content/pub/ascii/pbtss11.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/pbtss11.pdf
+Examines the characteristics and experiences of persons age 16 or older who
+were stopped by police during traffic and street stops, and their
+perceptions of police behavior and response during these encounters. It
+describes the outcomes of traffic and street stops by the reason for the
+stop; demographic characteristics of the persons stopped; race or Hispanic
+origin of the officers; and whether a ticket was issued, a search was
+conducted, or force was used. It also describes variations in perceptions
+of the police across characteristics and outcomes of traffic and street
+stops. Data are from the 2011 Police-Public Contact Survey, a supplement to
+the National Crime Victimization Survey, which collects information from a
+nationally representative sample of persons in U.S. households on contact
+with police during a 12-month period.
+
+6. Lounsbury, Camm J., "Police-public Interactions During Traffic and
+Street Stops: An Analysis at the Urban, Suburban, and Rural Levels."
+Dissertation, Capella University, 2015.
+Abstract: http://www.ncjrs.gov/App/publications/abstract.aspx?ID=265012
+Full text: http://www.bjs.gov/content/pub/ascii/pbtss11.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/pbtss11.pdf
+Examines the characteristics and experiences of persons age 16 or older who
+were stopped by police during traffic and street stops, and their
+perceptions of police behavior and response during these encounters. It
+describes the outcomes of traffic and street stops by the reason for the
+stop; demographic characteristics of the persons stopped; race or Hispanic
+origin of the officers; and whether a ticket was issued, a search was
+conducted, or force was used. It also describes variations in perceptions
+of the police across characteristics and outcomes of traffic and street
+stops. Data are from the 2011 Police-Public Contact Survey, a supplement to
+the National Crime Victimization Survey, which collects information from a
+nationally representative sample of persons in U.S. households on contact
+with police during a 12-month period.
+
+7. Medina, Michael A., Jr., "Accounting for Membership: An Examination of
+the Effects Race, Sex, and Age has on Police Conduct
+and Force During Traffic Stops." Thesis, Rutgers, 2016.
+Abstract: http://www.ncjrs.gov/App/publications/abstract.aspx?ID=265012
+Full text: http://www.bjs.gov/content/pub/ascii/pbtss11.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/pbtss11.pdf
+Examines the characteristics and experiences of persons age 16 or older who
+were stopped by police during traffic and street stops, and their
+perceptions of police behavior and response during these encounters. It
+describes the outcomes of traffic and street stops by the reason for the
+stop; demographic characteristics of the persons stopped; race or Hispanic
+origin of the officers; and whether a ticket was issued, a search was
+conducted, or force was used. It also describes variations in perceptions
+of the police across characteristics and outcomes of traffic and street
+stops. Data are from the 2011 Police-Public Contact Survey, a supplement to
+the National Crime Victimization Survey, which collects information from a
+nationally representative sample of persons in U.S. households on contact
+with police during a 12-month period.
+
+8. Slocum, Lee A., "The effect of prior police contact on victimization
+reporting: Results from the Police-Public Contact and National Crime
+Victimization Surveys." Journal of Quantitative Criminology. In Press
+2017,. DOI: 10.1007/s10940-017-9345-x
+Abstract: http://www.ncjrs.gov/App/publications/abstract.aspx?ID=265012
+Full text: http://www.bjs.gov/content/pub/ascii/pbtss11.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/pbtss11.pdf
+Examines the characteristics and experiences of persons age 16 or older who
+were stopped by police during traffic and street stops, and their
+perceptions of police behavior and response during these encounters. It
+describes the outcomes of traffic and street stops by the reason for the
+stop; demographic characteristics of the persons stopped; race or Hispanic
+origin of the officers; and whether a ticket was issued, a search was
+conducted, or force was used. It also describes variations in perceptions
+of the police across characteristics and outcomes of traffic and street
+stops. Data are from the 2011 Police-Public Contact Survey, a supplement to
+the National Crime Victimization Survey, which collects information from a
+nationally representative sample of persons in U.S. households on contact
+with police during a 12-month period.
