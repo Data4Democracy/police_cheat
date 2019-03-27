@@ -11,3 +11,5 @@
 ## Database:
 
 https://data.world/pgeurin/policecheat/activity
+
+## update: This project was archived in March 2019 on slack #police-cheat because of no response and no github activity for 5 months.
